@@ -11,7 +11,7 @@ def create_presentation():
     subtitle = slide.placeholders[1]
     
     title.text = "AI-Based Number Plate Detection (ANPR)"
-    subtitle.text = "A Deep Learning & Computer Vision Approach\n\nB.Tech Project Presentation\nBy Singhhsaheb"
+    subtitle.text = "A Deep Learning & Computer Vision Approach\n\nB.Tech Project Presentation\nBy Sonu Kumar\nEnrollment No: 2522759050024"
 
     # 2. Problem Statement
     bullet_slide_layout = prs.slide_layouts[1]
